@@ -1,0 +1,28 @@
+name: pertemuan3
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/gambar1.jpg
+    - assets/gambar2.jpg
+    - assets/gambar3.jpg
+    - assets/gambar4.jpg
+    - assets/gambar5.jpg
+    - assets/gambar6.jpg
+    - assets/gambar7.jpg
+    - assets/gambar8.jpg
